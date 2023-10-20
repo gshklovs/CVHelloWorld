@@ -6,4 +6,4 @@ Using OpenCV to play a video and YOLOv8 to detect and label animals.
 
 ##
 
-<img src="./readme_preview.png" height="300" />
+<img src="./readme_preview.png" height="480" />
